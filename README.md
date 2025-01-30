@@ -1,7 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Follow%20easyone&fontSize=90)
-
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
